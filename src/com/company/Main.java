@@ -92,5 +92,7 @@ public class Main {
         } else {
             System.out.println("Не високосный год.");
         }
+
+        //просто бесполезный коммент для гита
     }
 }
